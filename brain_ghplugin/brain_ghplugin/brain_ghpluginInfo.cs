@@ -3,7 +3,7 @@ using System.Drawing;
 using Grasshopper;
 using Grasshopper.Kernel;
 
-namespace brain_ghplugin
+namespace Brain
 {
   public class brain_ghpluginInfo : GH_AssemblyInfo
   {

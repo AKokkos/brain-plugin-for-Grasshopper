@@ -5,7 +5,8 @@ using Grasshopper;
 using Grasshopper.Kernel;
 using Rhino.Geometry;
 
-namespace brain_ghplugin
+namespace Brain
+
 {
   public class brain_ghComponent : GH_Component
   {
